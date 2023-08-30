@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+
+
+.day{
+    font-family: 'Tektur';
+    color: rgb(5 26 87);
+    
+}

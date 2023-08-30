@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+
+
+.inputs {
+    display: flex;
+    margin: 10px auto;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px;
+    width: 500px;
+    text-align: right;
+
+}
+
+.inputs input{
+    display: flex;
+    flex: 1;
+    margin: 10px;
+     width: 300px;
+    padding: 15px 10px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    box-shadow: 3px 4px 5px 0px #050505;
+    font-size: 20px;
+  }
+
+  .inputs button{
+    display: flex;
+    justify-content: space-around;
+    background: transparent;
+    border-radius: 10px;
+    box-shadow: 3px 4px 5px 0px #050505;
+    margin: 4px 15px;
+    padding: 9px 30px;
+    width: auto;
+    border: none;
+    cursor: pointer;
+    color: whitesmoke;
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+
+  .inputs button:hover{
+    display: flex;
+    justify-content: space-around;
+    background: transparent;
+    border-radius: 10px;
+    box-shadow: 3px 4px 5px 0px #050505;
+    margin: 4px 15px;
+    padding: 9px 30px;
+    width: auto;
+    border: none;
+    cursor: pointer;
+    color: rgb(43, 8, 245);
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+
+  
