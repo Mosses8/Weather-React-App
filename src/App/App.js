@@ -29,7 +29,7 @@ export const App = () => {
       ];
 
       fetch(
-        `https://api.weatherapi.com/v1/forecast.json?key=05f520321126476a94d130551233008&q=${city}&days=5&aqi=no&alerts=no`
+        `https://api.weatherapi.com/v1/forecast.json?key=USE YOUR OWN API KEY&q=${city}&days=5&aqi=no&alerts=no`
       )
         .then(res => res.json())
         .then(res => {
